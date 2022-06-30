@@ -1,0 +1,23 @@
+{
+  "name": "kauanll",
+  "version": "1.0.0",
+  "description": "npx card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "KauanLL"
+  },
+  "keywords": [
+    "card",
+    "npx"
+  ],
+  "author": "Kauan Lemos",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1"
+  }
+}
