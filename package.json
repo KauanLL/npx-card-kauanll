@@ -1,6 +1,6 @@
 {
   "name": "kauanll",
-  "version": "1.0.0",
+  "version": "1.0.20",
   "description": "npx card",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "boxen": "^7.0.0",
-    "chalk": "^5.0.1"
+    "chalk": "^5.0.1",
+    "husky": "^4.3.8",
+    "kauanll": "^1.0.20"
   }
 }
